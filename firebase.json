@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "eil-goal-new",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

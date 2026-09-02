@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "eil-goal-new": {
+      "hosting": {
+        "eil-goal-new": [
+          "eil-goal-new"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "eil-goal-new"
+  }
+}
